@@ -23008,4 +23008,25 @@
         <Type>Script</Type>
         <Description>Autosplitter, load remover and game time</Description>
     </AutoSplitter>
-</AutoSplitters>
+    </AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>Diseny Infinity: Inside Out</Game>
+            <Game>Inside Out</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/izzyhope58/ASL-Scripts/refs/heads/main/InsideOut.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter & Load Remover. Created by IzzyHope58 with help from AndetSR</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Incredibles</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/izzyhope58/ASL-Scripts/refs/heads/main/TheIncredibles.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter & Load Remover for the PC version. Created by IzzyHope58</Description>
+    </AutoSplitter>
